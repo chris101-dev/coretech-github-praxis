@@ -1,0 +1,15 @@
+# Environment variables
+.env
+
+# Sensitive local file
+meine_bankverbindung.txt
+
+# VS Code
+.vscode/
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Logs
+*.log

@@ -1,2 +1,2 @@
-Das ist ein Test
+Das ist ein Text
 Nochmal ein Test
